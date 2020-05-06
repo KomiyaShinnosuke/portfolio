@@ -22,7 +22,7 @@
 <script>
   export default {
     title: 'Contact',
-    description: 'べこ（becolomochi）へのお問い合わせページ',
+    description: '管理者（komishin）へのお問い合わせページ',
     methods: {
       sendMessage() {
         const form = $('form');

@@ -25,17 +25,17 @@
         h2.headline About
         .top_about-inner
           .about_text
-            h3.about_name べこ
-              small.about_small beco
+            h3.about_name こみ
+              small.about_small komi
             div.about_role Designer / Frontend developer / Illustrator
             div.about_sns
-              a(href="https://twitter.com/becolomochi")
+              a(href="https://twitter.com/komi")
                 i.fa.fa-twitter
                 | Twitter
-              a(href="https://github.com/becolomochi")
+              a(href="https://github.com/komi")
                 i.fa.fa-github
                 | GitHub
-              a(href="https://becolomochi.tumblr.com")
+              a(href="https://komi.tumblr.com")
                 i.fa.fa-tumblr
                 | Tumblr
             div.about_other
@@ -55,7 +55,7 @@
   export default {
     name: 'top',
     title: 'Top',
-    description: 'べこ（becolomochi）のポートフォリオサイト',
+    description: 'こみ（komi）のポートフォリオサイト',
     props: ['data']
   }
 

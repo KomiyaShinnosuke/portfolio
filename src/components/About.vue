@@ -2,10 +2,10 @@
   .page
     section.section
       h1.headline.page_headline About
-        .sub becolomochi について
-      h2 べこ 
-        small beco
-      p.about_paragraph Designer / Frontend developer / Illustrator
+        .sub komilomochi について
+      h2 こみ
+        small komi
+      p.about_paragraph Frontend developer
 
     section.section
       h2.section_headline できること
@@ -15,7 +15,7 @@
         li プログラミングの基礎
         li ターミナル操作
         li 
-          a(href="https://twitter.com/becolomochi/status/1021660801982029824" target="_blank") キャラクター制作
+          a(href="https://twitter.com/komilomochi/status/1021660801982029824" target="_blank") キャラクター制作
         li Adobe Illustrator を使ったイラストやロゴの作成
         li 紙面レイアウト
 
@@ -56,12 +56,12 @@
       h3 2018年
 
       ul.about_list
-        li 2018年4月〜 フリーランス（屋号：べころもち工房）
+        li 2018年4月〜 フリーランス
         li
           a(href="https://creive.me/" target="_blank") creive【クリーブ】
           | さんにて記事公開
         li
-          a(href="https://twitter.com/becolomochi/status/1021660801982029824" target="_blank") キャラクター制作
+          a(href="https://twitter.com/komilomochi/status/1021660801982029824" target="_blank") キャラクター制作
         li アイコン制作
         li レスポンシブサイトコーディング
         li 
@@ -102,25 +102,25 @@
           br
           | このポートフォリオサイトの作り方について書いた技術系同人誌です
         li
-          a(href="https://becolomochi.tumblr.com") Tumblr
+          a(href="https://komilomochi.tumblr.com") Tumblr
           br
           | イラストやグッズの紹介など
         li
-          a(href="https://becolomochi.hatenablog.com") ブログ
+          a(href="https://komilomochi.hatenablog.com") ブログ
         li
-          a(href="https://scrapbox.io/becolomochi") Scrapbox
+          a(href="https://scrapbox.io/komilomochi") Scrapbox
         li
-          a(href="https://github.com/becolomochi") GitHub
+          a(href="https://github.com/komilomochi") GitHub
         li
-          a(href="https://twitter.com/becolomochi") Twitter
+          a(href="https://twitter.com/komilomochi") Twitter
         li
-          a(href="https://www.instagram.com/becolomochi") Instagram
+          a(href="https://www.instagram.com/komilomochi") Instagram
         li
-          a(href="http://booklog.jp/users/becolomochi") Booklog
+          a(href="http://booklog.jp/users/komilomochi") Booklog
         li
-          a(href="http://qiita.com/becolomochi") Qiita
+          a(href="http://qiita.com/komilomochi") Qiita
         li
-          a(href="https://suzuri.jp/becolomochi") グッズ販売
+          a(href="https://suzuri.jp/komilomochi") グッズ販売
         li
           a(href="https://store.line.me/stickershop/product/1018430") LINEスタンプ
 </template>
@@ -128,6 +128,6 @@
 <script>
   export default {
     title: 'About',
-    description: 'べこ（becolomochi）の経歴・仕事観・性格・好きなものについて書いたページです。'
+    description: 'こみ（komi）の経歴・仕事観・性格・好きなものについて書いたページです。'
   }
 </script>

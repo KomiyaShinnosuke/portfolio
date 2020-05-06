@@ -24,12 +24,12 @@
   export default {
     props: ['data'],
     mounted() {
-      document.title = this.filteredData.title + '- becolomochi\'s portfolio'
+      document.title = this.filteredData.title + '- komi portfolio'
 
       let meta = document.getElementsByTagName('meta')
       for (var i = 0; i < meta.length; i++) {
         if (meta[i].name.toLowerCase() == 'description') {
-          meta[i].content = 'becolomochiが作成した ' + this.filteredData.title + ' のページです'
+          meta[i].content = 'komiが作成した ' + this.filteredData.title + ' のページです'
         }
       }
     },
